@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sumneko/vscode-lua/master/setting/schema.json",
+    "workspace.checkThirdParty": false,
+  // "Lua.diagnostics.disable": [
+  //   "redundant-parameter",
+  //   "param-type-mismatch",
+  //   "missing-parameter",
+  // ],
+  // "diagnostics.libraryFiles": "Disable",
+  //   "workspace.library": [
+  //       "${3rd}/luassert/library"
+  //   ]  
+}
